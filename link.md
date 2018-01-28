@@ -7,3 +7,7 @@ https://github.com/shime/awesome-open-source-indie
 [Rasky - OpenSource KVM over IP](https://www.nexlab.net/product/rasky/)
 
 [sshtalk](https://2ton.com.au/sshtalk/) nice !
+
+[sshtron](http://sshtron.zachlatta.com/) nice !
+
+[mapSCII](https://github.com/rastapasta/mapscii) maps in your terminal...
